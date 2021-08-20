@@ -7,7 +7,7 @@ const PersonDetails = ( props ) => {
     return(
         <ItemDetails {...props}>
                 <Record field="birthYear" label='Birth year'/>
-                <Record field='eyeColor' label='Eye color'/>
+                <Record field='gender' label='Gender'/>
         </ItemDetails>
     );
 }
