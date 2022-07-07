@@ -1,3 +1,3 @@
-Todo web-app first jsReact proj.
+Star wars web-app jsReact proj.
 -----
 by Dustin-RS
